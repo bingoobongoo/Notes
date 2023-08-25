@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e17eb27782873bc",
+        "id": "453ca34ddcb31173",
         "type": "tabs",
         "children": [
           {
-            "id": "1e059bedf59304bf",
+            "id": "6e960f19d0ed1cae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Binary Tree.md",
+                "file": "Literature Notes/Kruskal's Minimum Spanning Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Binary Tree.md",
+                "file": "Literature Notes/Kruskal's Minimum Spanning Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Binary Tree.md",
+                "file": "Literature Notes/Kruskal's Minimum Spanning Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Binary Tree.md"
+                "file": "Literature Notes/Kruskal's Minimum Spanning Tree.md"
               }
             }
           }
@@ -146,32 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e059bedf59304bf",
+  "active": "6e960f19d0ed1cae",
   "lastOpenFiles": [
+    "Literature Notes/Data Strucutres/Union Find.md",
+    "Literature Notes/Data Strucutres/Stack.md",
+    "Literature Notes/Data Strucutres/Fenwick Tree.md",
+    "Literature Notes/Data Strucutres/Linked Lists.md",
+    "Literature Notes/Data Strucutres/Hash table.md",
+    "Literature Notes/Data Strucutres/Data Structures.md",
+    "Literature Notes/Data Strucutres/Binary Tree.md",
+    "Attachments/Pasted image 20230725213046.png",
+    "Literature Notes/Data Strucutres/Priority Queue.md",
+    "Literature Notes/Data Strucutres/Queue.md",
+    "Attachments/Pasted image 20230723151251.png",
+    "Attachments/Pasted image 20230723134140.png",
+    "Literature Notes/Data Strucutres/Arrays.md",
+    "Literature Notes/Algorithms.md",
+    "Literature Notes/Data Strucutres",
     "Literature Notes/Breadth First Search.md",
-    "Literature Notes/Binary Tree.md",
     "Attachments/Pasted image 20230723121407.png",
     "Attachments/Pasted image 20230723120634.png",
     "Attachments/Pasted image 20230723120029.png",
     "Attachments/Pasted image 20230723115001.png",
-    "Literature Notes/Queue.md",
-    "Literature Notes/Priority Queue.md",
-    "Literature Notes/Union Find.md",
     "Attachments/Pasted image 20230719163748.png",
     "Attachments/Pasted image 20230719163639.png",
-    "Literature Notes/Stack.md",
     "Literature Notes/Pointers.md",
-    "Literature Notes/Linked Lists.md",
     "Literature Notes/Kruskal's Minimum Spanning Tree.md",
-    "Literature Notes/Data Structures.md",
-    "Literature Notes/Arrays.md",
-    "Literature Notes/Algorithms.md",
     "Literature Notes/Big-O Notation.md",
     "Literature Notes/Graphs.md",
     "Attachments/Pasted image 20230709163916.png",
-    "Attachments/Pasted image 20230709163903.png",
-    "Attachments/Pasted image 20230709161312.png",
-    "Attachments/Pasted image 20230709161221.png",
     "Quick Notes/data structure.md",
     "Quick Notes/2023-06-22.md",
     "Quick Notes/Kod.md",

@@ -1,0 +1,11 @@
+1. co to CMake, jak działa, czym jest CMakeLists.txt
+2. co to jest spdlog.h?
+3. czym jest namespace w c++?
+4. co to jest assimp?
+5. co to jest ZLIB?
+6. co to jest conan?
+7. co to jest glfw3?
+8. czym jest glm?
+9. czym jest gtest?
+10. ogarnąć działanie bibliotek w c++ i plików nagłówkowych .h
+11. co to jest toolchain (np. conan)?
