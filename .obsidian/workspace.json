@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "453ca34ddcb31173",
+        "id": "3e9224889d3f81f4",
         "type": "tabs",
         "children": [
           {
-            "id": "6e960f19d0ed1cae",
+            "id": "b6059a3ca11c3cb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Kruskal's Minimum Spanning Tree.md",
+                "file": "Literature Notes/Machine Learning/Machine Learning Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Kruskal's Minimum Spanning Tree.md",
+                "file": "Literature Notes/Machine Learning/Machine Learning Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Kruskal's Minimum Spanning Tree.md",
+                "file": "Literature Notes/Machine Learning/Machine Learning Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Kruskal's Minimum Spanning Tree.md"
+                "file": "Literature Notes/Machine Learning/Machine Learning Introduction.md"
               }
             }
           }
@@ -146,43 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e960f19d0ed1cae",
+  "active": "b6059a3ca11c3cb1",
   "lastOpenFiles": [
+    "Quick Notes/Heap.md",
+    "Literature Notes/Machine Learning/Machine Learning Introduction.md",
+    "Literature Notes/Other/Algorithms.md",
+    "Literature Notes/Other",
+    "Literature Notes/Machine Learning",
+    "PDFs/GameEngineArchitecture.pdf",
+    "Literature Notes/Data Strucutres/Linked Lists.md",
+    "Literature Notes/C++/Linker.md",
+    "Literature Notes/Other/Graphs.md",
+    "Literature Notes/Other/Kruskal's Minimum Spanning Tree.md",
+    "Literature Notes/C++/Compiler.md",
+    "Literature Notes/C++/Const.md",
+    "Literature Notes/C++/Header Files.md",
+    "Literature Notes/C++/Libraries.md",
+    "Literature Notes/C++/Pointers.md",
+    "Literature Notes/C++/Preprocessor.md",
+    "Literature Notes/C++/Reference.md",
+    "Literature Notes/C++/Static.md",
+    "Literature Notes/Data Strucutres/Data Structures.md",
+    "Literature Notes/Data Strucutres/Fenwick Tree.md",
+    "Literature Notes/Data Strucutres/Binary Tree.md",
+    "Literature Notes/Data Strucutres/Arrays.md",
+    "Literature Notes/Other/Big-O Notation.md",
+    "Literature Notes/Other/Breadth First Search.md",
     "Literature Notes/Data Strucutres/Union Find.md",
     "Literature Notes/Data Strucutres/Stack.md",
-    "Literature Notes/Data Strucutres/Fenwick Tree.md",
-    "Literature Notes/Data Strucutres/Linked Lists.md",
-    "Literature Notes/Data Strucutres/Hash table.md",
-    "Literature Notes/Data Strucutres/Data Structures.md",
-    "Literature Notes/Data Strucutres/Binary Tree.md",
-    "Attachments/Pasted image 20230725213046.png",
-    "Literature Notes/Data Strucutres/Priority Queue.md",
     "Literature Notes/Data Strucutres/Queue.md",
+    "Literature Notes/Data Strucutres/Priority Queue.md",
+    "Literature Notes/C++",
+    "GameEngineArchitecture.pdf",
+    "PDFs/OpenGL_Tutorial.pdf",
+    "PDFs",
+    "Nowy folder",
+    "Attachments/Pasted image 20230725213046.png",
     "Attachments/Pasted image 20230723151251.png",
     "Attachments/Pasted image 20230723134140.png",
-    "Literature Notes/Data Strucutres/Arrays.md",
-    "Literature Notes/Algorithms.md",
     "Literature Notes/Data Strucutres",
-    "Literature Notes/Breadth First Search.md",
     "Attachments/Pasted image 20230723121407.png",
     "Attachments/Pasted image 20230723120634.png",
     "Attachments/Pasted image 20230723120029.png",
     "Attachments/Pasted image 20230723115001.png",
     "Attachments/Pasted image 20230719163748.png",
     "Attachments/Pasted image 20230719163639.png",
-    "Literature Notes/Pointers.md",
-    "Literature Notes/Kruskal's Minimum Spanning Tree.md",
-    "Literature Notes/Big-O Notation.md",
-    "Literature Notes/Graphs.md",
     "Attachments/Pasted image 20230709163916.png",
-    "Quick Notes/data structure.md",
-    "Quick Notes/2023-06-22.md",
-    "Quick Notes/Kod.md",
-    "Quick Notes/Test.md",
-    "Attachments",
-    "Quick Notes/Zenek.md",
-    "Quick Notes/Życie.md",
-    "Literature Notes",
-    "Quick Notes"
+    "Attachments"
   ]
 }
